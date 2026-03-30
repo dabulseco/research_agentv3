@@ -164,7 +164,7 @@ proceed using only the initial research and any uploaded resources.
 
 ---
 
-### Stage 45 — Output Format & Length Selection
+### Stage 4 — Output Format & Length Selection
 
 Before writing begins, you choose:
 
