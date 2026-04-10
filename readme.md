@@ -8,6 +8,7 @@ that scales from a single page to 10+ pages — all from a simple browser-based 
 
 > **No cloud API keys required. Your data never leaves your machine.**
 
+NOTE: research_agentV4 uses updated methods for prompts that might be more robust than the approach used in v3.
 ---
 
 ## 📋 Table of Contents
